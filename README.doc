@@ -1,6 +1,6 @@
-Required Features
-♦ Create a REST API using Express and get this to pull/update/delete records from the database!
-♦ Have a Dashboard page that displays products, recent orders, and new customers. It should also have search filter for products
+Features
+♦ A REST API using Express and to pull/update/delete records from the database.
+♦ A Dashboard page that displays products, recent orders, and new customers. It also has search filter for products
 ♦ The Products page will allow a user to create a new product with name, url, description and initial quantity.
 ♦ The Orders page allows a user to create, show, and filter all orders.
 ♦ The Customer page allows a user to create a new customer, show, and filter all customers.
